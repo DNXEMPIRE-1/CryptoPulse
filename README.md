@@ -1,4 +1,4 @@
-# Stoccoin-Website
+# CryptoPulse-Website
 
 [Under Development] </br>
 
