@@ -43,11 +43,11 @@ export default function Example({ darkMode, setDarkMode }) {
           <div className="flex lg:flex-1 ">
             <Link to={"/"}>
               <div className="-m-1.5 p-1.5 ">
-                <span className="sr-only">CryptoPulse</span>
+                <span className="sr-only">Stoccoin</span>
                 <img
                   className="h-8 w-auto"
                   src="./logo.svg"
-                  alt="CryptoPulse Logo"
+                  alt="Stoccoin Logo"
                 />
               </div>
             </Link>
@@ -110,7 +110,7 @@ export default function Example({ darkMode, setDarkMode }) {
           >
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
-                <span className="sr-only">CryptoPulse</span>
+                <span className="sr-only">Stoccoin</span>
                 <img className="h-8 w-auto" src="./logo.svg" alt="" />
               </a>
               <button
