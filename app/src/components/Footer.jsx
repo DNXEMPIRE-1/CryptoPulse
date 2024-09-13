@@ -34,7 +34,7 @@ function Footer() {
               />
             </Link>
             <h1 className="text-3xl font-sans font-extrabold text-black dark:text-cyan-100 mb-4 text-center">
-              CryptoPulse
+              Stoccoin
             </h1>
             <p className="font-semibold font-sans text-center md:text-start w-full md:w-96 dark:text-cyan-400">
               Discover our mission to provide real-time market data and curated
@@ -50,7 +50,7 @@ function Footer() {
             </h2>
             <div className="list-none flex gap-6 md:grid grid-cols-2">
               <div className="mb-2">
-                <Link to="https://www.instagram.com/CryptoPulse/" target="_blank">
+                <Link to="https://www.instagram.com/stoccoin/" target="_blank">
                   <AiFillInstagram
                     title="Instagram"
                     size={30}
@@ -59,7 +59,7 @@ function Footer() {
                 </Link>
               </div>
               <div className="mb-2">
-                <Link to="https://twitter.com/CryptoPulseco" target="_blank">
+                <Link to="https://twitter.com/stoccoinco" target="_blank">
                   <BsTwitter
                     title="Twitter"
                     size={30}
@@ -69,7 +69,7 @@ function Footer() {
               </div>
               <div className="mb-2">
                 <Link
-                  to="https://www.linkedin.com/company/CryptoPulse/"
+                  to="https://www.linkedin.com/company/stoccoin/"
                   target="_blank"
                 >
                   <BsLinkedin
@@ -81,7 +81,7 @@ function Footer() {
               </div>
               <div className="w-[28px]">
                 <Link
-                  to="https://www.kooapp.com/profile/CryptoPulse/"
+                  to="https://www.kooapp.com/profile/stoccoin/"
                   target="_blank"
                 >
                   {hover ? (
@@ -107,7 +107,7 @@ function Footer() {
               </div>
               <div className="mb-2">
                 <Link
-                  to="https://github.com/CryptoPulse-Official/CryptoPulse-Website"
+                  to="https://github.com/Stoccoin-Official/Stoccoin-Website"
                   target="_blank"
                 >
                   <BsGithub
@@ -146,7 +146,7 @@ function Footer() {
             </form>
             <br />
             <p className="text-gray-500 text-center lg:text-sm font-semibold w-[110%]">
-              &copy; 2023 CryptoPulse. All rights reserved.
+              &copy; 2023 Stoccoin. All rights reserved.
             </p>
           </div>
         </div>
