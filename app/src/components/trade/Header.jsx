@@ -38,7 +38,7 @@ export default function Header() {
           >
             <img
               src="./trade-header-image.svg"
-              alt="stoccoin-trade-header"
+              alt="CryptoPulse-trade-header"
               style={{
                 height: "25rem",
                 maxHeight: "50rem",
