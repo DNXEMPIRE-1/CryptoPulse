@@ -10,7 +10,7 @@ export default function Header() {
                 className="font-extrabold tracking-tight text-gray-900 text-5xl dark:text-cyan-100"
                 style={{ fontFamily: "'Open Sans Extra Bold', sans-serif" }}
               >
-                Stoccoin
+                CryptoPulse
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600 lg:mt-0 dark:text-cyan-400">
                 Learn-Invest-Repeat
@@ -37,7 +37,7 @@ export default function Header() {
           >
             <img
               src="./header.svg"
-              alt="stoccoin-homepage-header"
+              alt="CryptoPulse-homepage-header"
               style={{
                 height: "25rem",
                 maxHeight: "50rem",
