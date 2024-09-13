@@ -19,7 +19,7 @@ To get started with this project, you'll need to follow these steps:
 
 1. Install Node.js and MongoDB on your local machine.
 2. Clone this repository to your local machine.
-3. Retrieve the API key from the official [Firebase website](https://firebase.google.com/) and use it in [auth.js](https://github.com/CryptoPulse-Official/CryptoPulse-Website/blob/main/app/src/firebase/auth.js).
+3. Retrieve the API key from the official [Firebase website](https://firebase.google.com/) and use it in [auth.js](https://github.com/Stoccoin-Official/Stoccoin-Website/blob/main/app/src/firebase/auth.js).
 4. Install the project dependencies by running `npm install` in the app directory.
 5. Start the app by running `npm run dev` in the directory (`cd app`).
 6. Open your web browser and navigate to `http://localhost:5173`.
