@@ -38,7 +38,7 @@ export default function Header() {
           >
             <img
               src="./news-header-image.svg"
-              alt="CryptoPulse-news-header"
+              alt="stoccoin-news-header"
               style={{
                 height: "25rem",
                 maxHeight: "50rem",
